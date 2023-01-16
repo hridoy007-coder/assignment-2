@@ -246,7 +246,7 @@
 /* -------------Extra Sign up section style------------ */
 
   .signup-cover{
-    background-image: url("../assets/images/visitor-hp-signup-bg.jpg");
+    background-image: url("./assets/images/visitor-hp-signup-bg.jpg");
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
