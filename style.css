@@ -9,7 +9,7 @@
 }
 
 .primary-color{
-    color: #FF900E
+    color: #ff820e
 }
 
 /* ------------ import fonts ---------------- */
@@ -71,7 +71,7 @@
 
 .button-primary{
     padding: 20px 25px;
-    background-color: #FF900E;
+    background-color: #ff820e;
     border: none;
     border-radius: 10px;
     font-weight: 600;
@@ -154,7 +154,7 @@
 .love-enjoy-title{
     font-size: 45px;
     font-weight: 700;
-    border-left: 4px solid #FF900E;
+    border-left: 4px solid #ff820e;
     padding-left: 20px;
 }
 
@@ -194,7 +194,7 @@
 .experience-button{
     padding: 45px 42px;
     color: #FFFFFF;
-    background-color: #FF900E;
+    background-color: #ff820e;
     border: none;
     border-radius: 10px;
 }
@@ -230,12 +230,12 @@
     text-align: center;
     box-sizing: border-box;
     padding: 40px 40px;
-    border: 1px solid #FF900E;
+    border: 1px solid #ff820e;
     border-radius: 10px;
 }
 
 .win-box {
-    background: linear-gradient(#FF900E 0 0) var(--p, 0) / var(--p, 0) no-repeat;
+    background: linear-gradient(#ff820e 0 0) var(--p, 0) / var(--p, 0) no-repeat;
     transition: 0.4s, background-position 0s;
   }
 .win-box:hover {
@@ -296,7 +296,7 @@
     outline: none;
     border: 1px solid;
     margin: 10px 0;
-    background-color: #FF900E;
+    background-color: #ff820e;
     color: #fff;
     cursor: pointer;
   }
