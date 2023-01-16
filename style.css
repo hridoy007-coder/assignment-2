@@ -60,7 +60,7 @@
 .header-title{
     font-size: 64px;
     font-weight: 700;
-    color: #131313;
+    color: #00c3ff;
     padding-top: 80px;
 }
 
@@ -71,7 +71,7 @@
 
 .button-primary{
     padding: 20px 25px;
-    background-color: #ff820e;
+    background-color: #00c3ff;
     border: none;
     border-radius: 10px;
     font-weight: 600;
